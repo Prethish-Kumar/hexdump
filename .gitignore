@@ -1,0 +1,9 @@
+# Build outputs
+hexdump
+*.o
+*.dSYM/
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/
