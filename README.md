@@ -11,7 +11,6 @@
 <p align="center">
   <img alt="Language" src="https://img.shields.io/badge/language-C-4da6ff?style=flat-square">
   <img alt="Dependencies" src="https://img.shields.io/badge/dependencies-none-8b949e?style=flat-square">
-  <img alt="Built overnight" src="https://img.shields.io/badge/built-overnight-111820?style=flat-square">
 </p>
 
 ## What is this?
