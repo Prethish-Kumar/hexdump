@@ -67,7 +67,3 @@ For example:
 ├── hexdump.c
 └── test.txt
 ```
-
----
-
-<p align="center"><sub>Built from curiosity, one byte at a time.</sub></p>
